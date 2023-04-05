@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+void sum();
+void minus();
 void main() {
   runApp(const MyApp());
 }
